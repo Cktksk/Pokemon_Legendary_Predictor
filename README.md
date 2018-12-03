@@ -25,3 +25,9 @@ Scripts:
     cross.py:
         Input: sklearn.svm
         Output: training 7-1 4-4 acc
+
+![][PokeLogo]
+
+
+
+[PokeLogo]:https://github.com/Cktksk/MyCache/blob/master/ImageLogos/pokemon-logo-black-transparent.png
