@@ -1,0 +1,9 @@
+linear
+8 fold: 0.9425
+2 fold: 0.94125
+2ndker
+8 fold: 0.945
+2 fold: 0.935
+gradient
+8 fold: 0.93875
+2 fold: 0.9425

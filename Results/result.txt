@@ -1,0 +1,20 @@
+gradient boost classifier: 
+8-8 Training acc: 0.975
+7-1 test acc: 0.94125
+4-4 test acc: 0.94625
+linear SVC: 
+8-8 Training acc: 0.945
+7-1 test acc: 0.94125
+4-4 test acc: 0.94
+2nd degree polynomial: 
+8-8 Training acc: 0.965
+7-1 test acc: 0.94
+4-4 test acc: 0.94125
+3rd degree polynomial: 
+8-8 Training acc: 0.95625
+7-1 test acc: 0.91625
+4-4 test acc: 0.89625
+one Class SVM: 
+8-8 Training acc: 0.4975
+7-1 test acc: 0.08875
+4-4 test acc: 0.08875
