@@ -1,4 +1,5 @@
 # Pokemon Legendary Predictor
+![][PokeLogo]
 
 Documents:
 
@@ -26,7 +27,7 @@ Scripts:
         Input: sklearn.svm
         Output: training 7-1 4-4 acc
 
-![][PokeLogo]
+
 
 
 
